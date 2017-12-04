@@ -1,6 +1,5 @@
 # TABCHI-2
 
-TABCHI V2
 
 BY : BANGER TEAM
 ================
